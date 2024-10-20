@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Delphi/Java Developer<br>- Delphi Developer at Assiste Engenharia de Softwares<br>- 3 Years of Experience</p>
+<p align="left">- Delphi/Java Developer<br>- Delphi Developer at Assiste Engenharia de Softwares<br>- 3 Years of Experience in Delphi</p>
 
 ###
 
